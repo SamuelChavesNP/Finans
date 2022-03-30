@@ -1,0 +1,22 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+}
+
+#navbar-brand {
+	padding-left: 9%;
+}
+
+footer {
+	border-top: rgb(224, 221, 221) 1px solid;
+	text-align: center;
+	font-weight: bolder;
+}
+
+footer > p {
+	padding-top: 10px;
+}
